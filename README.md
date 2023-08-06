@@ -1,4 +1,4 @@
-### Hi there, I'm Alessandra 👋
+### Olá, eu sou a Alessandra 👋
 
 
 - 🧑‍🎓 Sou estudante de desenvolvimento web full stack, em constante busca por desafios estimulantes que me levem a aprender e crescer;
@@ -7,7 +7,8 @@
 - 💛 Amo ler livros e aprender coisas novas.
 ##
 
-🚀 I'm currently learning:
+🚀 Atualmente estou aprendendo:
+
 
 <div style="display: inline_block"><br>
    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
@@ -35,7 +36,7 @@
 </div>
   
 ##
-🌎 Reach me:
+🌎 Entre em contato comigo:
 
   <a href="https://www.linkedin.com/in/alessandraalveslopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 

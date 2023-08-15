@@ -1,13 +1,16 @@
 ### Olá, eu sou a Alessandra 👋
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
+</div>
 
-- 🧑‍🎓 Sou estudante de desenvolvimento web full stack, em constante busca por desafios estimulantes que me levem a aprender e crescer;
-- 💻 Atualmente faço curso de Ciência de Dados e Análise e Desenvolvimento de Sistemas;
+- 🧑‍🎓 Desenvolvedora web full stack, em constante busca por desafios estimulantes que me levem a aprender e crescer;
+- 💻 Cursando Ciência de Dados e Análise e Desenvolvimento de Sistemas;
 - 🔭 Sou estudante de dois bootcamps, da Laboratória com foco ao front-end e da Cubos Academy com foco no back-end;
 - 💛 Amo ler livros e aprender coisas novas.
 ##
 
-🚀 Atualmente estou aprendendo:
+🚀 Habilidades:
 
 
 <div style="display: inline_block"><br>

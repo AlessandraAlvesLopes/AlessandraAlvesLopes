@@ -1,7 +1,7 @@
 ### Olá, eu sou a Alessandra 👋
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
+  <img height="250" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
 </div>
 
 - 🧑‍🎓 Desenvolvedora web full stack, em constante busca por desafios estimulantes que me levem a aprender e crescer;
